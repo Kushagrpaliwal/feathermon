@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@media only screen and (max-width: 900px) {
+  .frontbanner {
+    font-size: 40px;
+  }
+  .resttxt{
+    font-size: 8px;
+  }
+  .toggleimg{
+    position: relative;
+    left:50px;
+  }
+  .searchbar{
+
+  }
+}
